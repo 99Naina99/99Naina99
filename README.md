@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henali Mallick
-- 👀 I’m interested in Software developement
-- 🌱 I’m currently learning HTML , CSS , Javascript and PHP
+- 👀 I’m interested in Cloud Solution Architec.
+- 🌱 I’m currently learning HTML , CSS , Javascript and AWS Cloud.
 - 💞️ I’m looking to collaborate on Web developement project
 - 📫 How to reach me sayerasunaina@gmail.com
 
